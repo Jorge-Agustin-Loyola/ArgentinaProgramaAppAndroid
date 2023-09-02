@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">argentinaProgramaMVVM</string>
+    <string name="Title1">Comparador de Strings</string>
+    <string name="Title_component1">Digite el texto 1</string>
+    <string name="Title_component2">Digite el texto 2</string>
+    <string name="Hint">Escriba aquí</string>
+    <string name="Title_button">Comparar</string>
+    <string name="Result">Resultado</string>
+    <string name="Result_default">Aquí vera el resultado de la comparación</string>
+    <string name="Result_true">Los strings SON iguales</string>
+    <string name="Result_false">Los strings NO SON iguales</string>
+</resources>
